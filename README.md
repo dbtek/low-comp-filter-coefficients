@@ -1,5 +1,5 @@
 # low-comp-filter-coefficients
-Filter design with low complexity coefficients.
+Javscript implementation of the algorithm described in paper, [Filter Design With Low Complexity Coefficients](https://stanford.edu/~boyd/papers/pdf/filt_coef_trunc.pdf) by Joëlle Skaf and Stephen P. Boyd.
 
 ## Prequisites
 - [Nodejs](https://nodejs.org/en/), npm later than 4.2.*.

@@ -1,0 +1,34 @@
+{
+  "name": "low-comp-filter-coefficients",
+  "version": "0.0.1",
+  "description": "Nodejs implementation of method introduced in paper \"Filter design with low complexity coefficients\" by Skaf and Boyd.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "low",
+    "complexity",
+    "coefficents",
+    "filter",
+    "design",
+    "boyd",
+    "skaf"
+  ],
+  "author": "İsmail Demirbilek <demirbilek.ismail@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbtek/low-comp-filter-coefficients.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dbtek/low-comp-filter-coefficients/issues"
+  },
+  "homepage": "https://github.com/dbtek/low-comp-filter-coefficients#readme",
+  "dependencies": {
+    "array-permutation": "^0.2.0",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-stage-2": "^6.3.13",
+    "babel-register": "^6.3.13"
+  }
+}
